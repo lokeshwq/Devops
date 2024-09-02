@@ -1,3 +1,6 @@
-hdkksmmskkk
-nsmmm
-snn
+IAM(Idenity Access Management)
+we have users,groups,roles,policies
+user if we want access to cloude we need add company user-id in user section
+groups if we want to connect to eks we can give access in a group and we can to that particular group like we need vm,eks etc
+roles it is used to create role between ec2 and vm,and cloude to eks
+policies read,write permission
